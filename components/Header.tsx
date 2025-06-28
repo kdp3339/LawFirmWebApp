@@ -60,7 +60,7 @@ export default function Header() {
               </div>
               <div>
                 <div className={`font-serif font-bold text-xl ${isScrolled ? "text-gray-800" : "text-white"}`}>
-                  Elite Legal
+                  Elite Legal By Kishan
                 </div>
                 <div className={`text-sm ${isScrolled ? "text-gray-600" : "text-yellow-400"}`}>Partners</div>
               </div>

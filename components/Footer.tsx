@@ -76,7 +76,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Elite Legal Partners. All rights reserved.</p>
+          <p>&copy; 2025 by Kishan. All rights reserved.</p>
         </div>
       </div>
     </footer>
